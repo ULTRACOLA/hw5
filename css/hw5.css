@@ -1,9 +1,10 @@
-.bg{
+.bg {
     width: 100%;
     height: 1200px;
-    background:url('../image/backgrouond.jpg')
+    background: url('../image/backgrouond.jpg')
 }
-.plan{
+
+.plan {
     display: inline-block;
     margin-left: 50px;
     width: 300px;
@@ -11,44 +12,54 @@
     background: white;
     border-radius: 10px;
 }
-.b1{
-    color:white;
+
+.b1 {
+    color: white;
     background: #2c2c69;
     height: 200px;
     width: 300px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     font-family: arial;
-    
-    
-    
-    
 }
-.item{
+
+.item {
     width: 150px;
     height: 30px;
     margin-left: auto;
     margin-right: auto;
-    color:  #d3cece;
+    color: #d3cece;
     text-align: left;
-        
 }
-strong{
-    color:#797474;
-    
+
+strong {
+    color: #797474;
 }
-.tripaln{
+
+.tripaln {
     padding-top: 300px;
     text-align: center;
-    
 }
-span{
+
+span {
     font-family: arial;
     color: #d3cece;
-    
 }
-span:first-of-type{
+
+span:first-of-type {
     font-family: arial;
     font-size: 50px;
     color: white;
+}
+#dlr{
+    vertical-align: super;
+    color:#d3cece;
+}
+#dor{
+    vertical-align: super;
+    color:#d3cece;
+}
+#dol{
+    vertical-align: super;
+    color:#d3cece;
 }
