@@ -20,7 +20,7 @@
     width: 300px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    font-family: arial;
+    font-family: Microsoft JhengHei;
 }
 
 .item {
@@ -30,6 +30,7 @@
     margin-right: auto;
     color: #d3cece;
     text-align: left;
+    font-family:Microsoft JhengHei;
 }
 
 strong {
@@ -47,7 +48,7 @@ span {
 }
 
 span:first-of-type {
-    font-family: arial;
+    font-family:Microsoft JhengHei;
     font-size: 50px;
     color: white;
 }
