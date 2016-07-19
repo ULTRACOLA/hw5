@@ -52,14 +52,14 @@ span:first-of-type {
     color: white;
 }
 #dlr{
-    vertical-align: super;
+   vertical-align: top;
     color:#d3cece;
 }
 #dor{
-    vertical-align: super;
+    vertical-align: top;
     color:#d3cece;
 }
 #dol{
-    vertical-align: super;
+    vertical-align: top;
     color:#d3cece;
 }
